@@ -1,0 +1,401 @@
+Serial No.,GRE Score,TOEFL Score,University Rating,SOP,LOR ,CGPA,Research,Chance of Admit ,Preferred Course,Preferred Country,University Name
+1,337,118,4,4.5,4.5,9.65,1,0.92,Data Science,Australia,University 26
+2,324,107,4,4.0,4.5,8.87,1,0.76,Computer Science,Australia,University 47
+3,316,104,3,3.0,3.5,8.0,1,0.72,Mechanical,Canada,University 44
+4,322,110,3,3.5,2.5,8.67,1,0.8,Mechanical,Australia,University 18
+5,314,103,2,2.0,3.0,8.21,0,0.65,Data Science,USA,University 34
+6,330,115,5,4.5,3.0,9.34,1,0.9,Electrical Engineering,Germany,University 5
+7,321,109,3,3.0,4.0,8.2,1,0.75,Mechanical,USA,University 28
+8,308,101,2,3.0,4.0,7.9,0,0.68,Electrical Engineering,UK,University 7
+9,302,102,1,2.0,1.5,8.0,0,0.5,Data Science,Germany,University 1
+10,323,108,3,3.5,3.0,8.6,0,0.45,Computer Science,Canada,University 15
+11,325,106,3,3.5,4.0,8.4,1,0.52,Data Science,Australia,University 17
+12,327,111,4,4.0,4.5,9.0,1,0.84,Electrical Engineering,Germany,University 37
+13,328,112,4,4.0,4.5,9.1,1,0.78,Data Science,Germany,University 49
+14,307,109,3,4.0,3.0,8.0,1,0.62,Computer Science,USA,University 14
+15,311,104,3,3.5,2.0,8.2,1,0.61,Computer Science,Germany,University 12
+16,314,105,3,3.5,2.5,8.3,0,0.54,Electrical Engineering,Germany,University 49
+17,317,107,3,4.0,3.0,8.7,0,0.66,Mechanical,UK,University 46
+18,319,106,3,4.0,3.0,8.0,1,0.65,Data Science,Australia,University 33
+19,318,110,3,4.0,3.0,8.8,0,0.63,Data Science,USA,University 38
+20,303,102,3,3.5,3.0,8.5,0,0.62,Mechanical,Canada,University 50
+21,312,107,3,3.0,2.0,7.9,1,0.64,Data Science,Australia,University 30
+22,325,114,4,3.0,2.0,8.4,0,0.7,Mechanical,UK,University 34
+23,328,116,5,5.0,5.0,9.5,1,0.94,Computer Science,UK,University 18
+24,334,119,5,5.0,4.5,9.7,1,0.95,Computer Science,Australia,University 34
+25,336,119,5,4.0,3.5,9.8,1,0.97,Computer Science,Germany,University 11
+26,340,120,5,4.5,4.5,9.6,1,0.94,Computer Science,Australia,University 31
+27,322,109,5,4.5,3.5,8.8,0,0.76,Mechanical,USA,University 36
+28,298,98,2,1.5,2.5,7.5,1,0.44,Data Science,Canada,University 41
+29,295,93,1,2.0,2.0,7.2,0,0.46,Electrical Engineering,Germany,University 16
+30,310,99,2,1.5,2.0,7.3,0,0.54,Electrical Engineering,UK,University 39
+31,300,97,2,3.0,3.0,8.1,1,0.65,Electrical Engineering,UK,University 18
+32,327,103,3,4.0,4.0,8.3,1,0.74,Data Science,Canada,University 32
+33,338,118,4,3.0,4.5,9.4,1,0.91,Data Science,Germany,University 4
+34,340,114,5,4.0,4.0,9.6,1,0.9,Computer Science,Canada,University 25
+35,331,112,5,4.0,5.0,9.8,1,0.94,Mechanical,Germany,University 26
+36,320,110,5,5.0,5.0,9.2,1,0.88,Mechanical,Canada,University 5
+37,299,106,2,4.0,4.0,8.4,0,0.64,Mechanical,Germany,University 46
+38,300,105,1,1.0,2.0,7.8,0,0.58,Computer Science,Germany,University 40
+39,304,105,1,3.0,1.5,7.5,0,0.52,Electrical Engineering,Canada,University 24
+40,307,108,2,4.0,3.5,7.7,0,0.48,Computer Science,USA,University 11
+41,308,110,3,3.5,3.0,8.0,1,0.46,Mechanical,Germany,University 38
+42,316,105,2,2.5,2.5,8.2,1,0.49,Mechanical,UK,University 21
+43,313,107,2,2.5,2.0,8.5,1,0.53,Data Science,USA,University 5
+44,332,117,4,4.5,4.0,9.1,0,0.87,Electrical Engineering,UK,University 32
+45,326,113,5,4.5,4.0,9.4,1,0.91,Mechanical,UK,University 20
+46,322,110,5,5.0,4.0,9.1,1,0.88,Electrical Engineering,Germany,University 46
+47,329,114,5,4.0,5.0,9.3,1,0.86,Mechanical,UK,University 39
+48,339,119,5,4.5,4.0,9.7,0,0.89,Computer Science,Germany,University 3
+49,321,110,3,3.5,5.0,8.85,1,0.82,Electrical Engineering,Germany,University 34
+50,327,111,4,3.0,4.0,8.4,1,0.78,Mechanical,Canada,University 24
+51,313,98,3,2.5,4.5,8.3,1,0.76,Electrical Engineering,Australia,University 9
+52,312,100,2,1.5,3.5,7.9,1,0.56,Computer Science,Canada,University 17
+53,334,116,4,4.0,3.0,8.0,1,0.78,Electrical Engineering,UK,University 6
+54,324,112,4,4.0,2.5,8.1,1,0.72,Computer Science,Canada,University 44
+55,322,110,3,3.0,3.5,8.0,0,0.7,Mechanical,Germany,University 8
+56,320,103,3,3.0,3.0,7.7,0,0.64,Electrical Engineering,Canada,University 2
+57,316,102,3,2.0,3.0,7.4,0,0.64,Mechanical,Canada,University 6
+58,298,99,2,4.0,2.0,7.6,0,0.46,Data Science,UK,University 29
+59,300,99,1,3.0,2.0,6.8,1,0.36,Electrical Engineering,Germany,University 39
+60,311,104,2,2.0,2.0,8.3,0,0.42,Mechanical,UK,University 45
+61,309,100,2,3.0,3.0,8.1,0,0.48,Mechanical,USA,University 40
+62,307,101,3,4.0,3.0,8.2,0,0.47,Data Science,Australia,University 46
+63,304,105,2,3.0,3.0,8.2,1,0.54,Computer Science,UK,University 45
+64,315,107,2,4.0,3.0,8.5,1,0.56,Mechanical,UK,University 18
+65,325,111,3,3.0,3.5,8.7,0,0.52,Computer Science,USA,University 31
+66,325,112,4,3.5,3.5,8.92,0,0.55,Computer Science,USA,University 8
+67,327,114,3,3.0,3.0,9.02,0,0.61,Electrical Engineering,USA,University 45
+68,316,107,2,3.5,3.5,8.64,1,0.57,Data Science,Canada,University 23
+69,318,109,3,3.5,4.0,9.22,1,0.68,Mechanical,USA,University 41
+70,328,115,4,4.5,4.0,9.16,1,0.78,Mechanical,Australia,University 15
+71,332,118,5,5.0,5.0,9.64,1,0.94,Electrical Engineering,USA,University 30
+72,336,112,5,5.0,5.0,9.76,1,0.96,Data Science,UK,University 37
+73,321,111,5,5.0,5.0,9.45,1,0.93,Data Science,USA,University 6
+74,314,108,4,4.5,4.0,9.04,1,0.84,Electrical Engineering,Canada,University 19
+75,314,106,3,3.0,5.0,8.9,0,0.74,Mechanical,Australia,University 40
+76,329,114,2,2.0,4.0,8.56,1,0.72,Electrical Engineering,Canada,University 40
+77,327,112,3,3.0,3.0,8.72,1,0.74,Electrical Engineering,Australia,University 19
+78,301,99,2,3.0,2.0,8.22,0,0.64,Computer Science,UK,University 40
+79,296,95,2,3.0,2.0,7.54,1,0.44,Data Science,Australia,University 45
+80,294,93,1,1.5,2.0,7.36,0,0.46,Electrical Engineering,UK,University 31
+81,312,105,3,2.0,3.0,8.02,1,0.5,Mechanical,UK,University 32
+82,340,120,4,5.0,5.0,9.5,1,0.96,Electrical Engineering,Canada,University 34
+83,320,110,5,5.0,4.5,9.22,1,0.92,Mechanical,UK,University 4
+84,322,115,5,4.0,4.5,9.36,1,0.92,Data Science,Germany,University 20
+85,340,115,5,4.5,4.5,9.45,1,0.94,Computer Science,Germany,University 45
+86,319,103,4,4.5,3.5,8.66,0,0.76,Electrical Engineering,USA,University 15
+87,315,106,3,4.5,3.5,8.42,0,0.72,Mechanical,Canada,University 35
+88,317,107,2,3.5,3.0,8.28,0,0.66,Computer Science,UK,University 34
+89,314,108,3,4.5,3.5,8.14,0,0.64,Data Science,Germany,University 32
+90,316,109,4,4.5,3.5,8.76,1,0.74,Data Science,Canada,University 33
+91,318,106,2,4.0,4.0,7.92,1,0.64,Computer Science,UK,University 4
+92,299,97,3,5.0,3.5,7.66,0,0.38,Electrical Engineering,Canada,University 42
+93,298,98,2,4.0,3.0,8.03,0,0.34,Mechanical,Germany,University 29
+94,301,97,2,3.0,3.0,7.88,1,0.44,Data Science,Canada,University 26
+95,303,99,3,2.0,2.5,7.66,0,0.36,Computer Science,USA,University 40
+96,304,100,4,1.5,2.5,7.84,0,0.42,Computer Science,Germany,University 43
+97,306,100,2,3.0,3.0,8.0,0,0.48,Computer Science,Australia,University 47
+98,331,120,3,4.0,4.0,8.96,1,0.86,Electrical Engineering,Germany,University 1
+99,332,119,4,5.0,4.5,9.24,1,0.9,Mechanical,USA,University 18
+100,323,113,3,4.0,4.0,8.88,1,0.79,Computer Science,UK,University 18
+101,322,107,3,3.5,3.5,8.46,1,0.71,Electrical Engineering,UK,University 3
+102,312,105,2,2.5,3.0,8.12,0,0.64,Mechanical,USA,University 50
+103,314,106,2,4.0,3.5,8.25,0,0.62,Data Science,UK,University 42
+104,317,104,2,4.5,4.0,8.47,0,0.57,Mechanical,Germany,University 26
+105,326,112,3,3.5,3.0,9.05,1,0.74,Electrical Engineering,USA,University 4
+106,316,110,3,4.0,4.5,8.78,1,0.69,Computer Science,USA,University 14
+107,329,111,4,4.5,4.5,9.18,1,0.87,Computer Science,Canada,University 20
+108,338,117,4,3.5,4.5,9.46,1,0.91,Mechanical,Australia,University 47
+109,331,116,5,5.0,5.0,9.38,1,0.93,Electrical Engineering,Australia,University 8
+110,304,103,5,5.0,4.0,8.64,0,0.68,Electrical Engineering,UK,University 48
+111,305,108,5,3.0,3.0,8.48,0,0.61,Electrical Engineering,Australia,University 9
+112,321,109,4,4.0,4.0,8.68,1,0.69,Computer Science,Australia,University 26
+113,301,107,3,3.5,3.5,8.34,1,0.62,Mechanical,UK,University 8
+114,320,110,2,4.0,3.5,8.56,0,0.72,Data Science,Australia,University 44
+115,311,105,3,3.5,3.0,8.45,1,0.59,Mechanical,UK,University 38
+116,310,106,4,4.5,4.5,9.04,1,0.66,Computer Science,Germany,University 41
+117,299,102,3,4.0,3.5,8.62,0,0.56,Mechanical,Canada,University 1
+118,290,104,4,2.0,2.5,7.46,0,0.45,Data Science,Australia,University 35
+119,296,99,2,3.0,3.5,7.28,0,0.47,Data Science,UK,University 47
+120,327,104,5,3.0,3.5,8.84,1,0.71,Mechanical,Canada,University 27
+121,335,117,5,5.0,5.0,9.56,1,0.94,Data Science,Germany,University 2
+122,334,119,5,4.5,4.5,9.48,1,0.94,Data Science,UK,University 2
+123,310,106,4,1.5,2.5,8.36,0,0.57,Data Science,Canada,University 43
+124,308,108,3,3.5,3.5,8.22,0,0.61,Data Science,Canada,University 30
+125,301,106,4,2.5,3.0,8.47,0,0.57,Computer Science,Canada,University 24
+126,300,100,3,2.0,3.0,8.66,1,0.64,Mechanical,UK,University 2
+127,323,113,3,4.0,3.0,9.32,1,0.85,Electrical Engineering,UK,University 35
+128,319,112,3,2.5,2.0,8.71,1,0.78,Electrical Engineering,Canada,University 37
+129,326,112,3,3.5,3.0,9.1,1,0.84,Electrical Engineering,Canada,University 18
+130,333,118,5,5.0,5.0,9.35,1,0.92,Electrical Engineering,USA,University 13
+131,339,114,5,4.0,4.5,9.76,1,0.96,Electrical Engineering,Canada,University 10
+132,303,105,5,5.0,4.5,8.65,0,0.77,Computer Science,Canada,University 21
+133,309,105,5,3.5,3.5,8.56,0,0.71,Data Science,Germany,University 18
+134,323,112,5,4.0,4.5,8.78,0,0.79,Electrical Engineering,USA,University 48
+135,333,113,5,4.0,4.0,9.28,1,0.89,Electrical Engineering,Canada,University 19
+136,314,109,4,3.5,4.0,8.77,1,0.82,Mechanical,Australia,University 21
+137,312,103,3,5.0,4.0,8.45,0,0.76,Mechanical,UK,University 37
+138,316,100,2,1.5,3.0,8.16,1,0.71,Mechanical,Australia,University 23
+139,326,116,2,4.5,3.0,9.08,1,0.8,Mechanical,Canada,University 16
+140,318,109,1,3.5,3.5,9.12,0,0.78,Computer Science,Canada,University 48
+141,329,110,2,4.0,3.0,9.15,1,0.84,Electrical Engineering,USA,University 40
+142,332,118,2,4.5,3.5,9.36,1,0.9,Mechanical,Canada,University 33
+143,331,115,5,4.0,3.5,9.44,1,0.92,Computer Science,Germany,University 13
+144,340,120,4,4.5,4.0,9.92,1,0.97,Computer Science,UK,University 8
+145,325,112,2,3.0,3.5,8.96,1,0.8,Electrical Engineering,Australia,University 33
+146,320,113,2,2.0,2.5,8.64,1,0.81,Electrical Engineering,UK,University 23
+147,315,105,3,2.0,2.5,8.48,0,0.75,Mechanical,USA,University 50
+148,326,114,3,3.0,3.0,9.11,1,0.83,Data Science,Germany,University 46
+149,339,116,4,4.0,3.5,9.8,1,0.96,Electrical Engineering,Canada,University 15
+150,311,106,2,3.5,3.0,8.26,1,0.79,Electrical Engineering,USA,University 24
+151,334,114,4,4.0,4.0,9.43,1,0.93,Data Science,USA,University 44
+152,332,116,5,5.0,5.0,9.28,1,0.94,Mechanical,Australia,University 30
+153,321,112,5,5.0,5.0,9.06,1,0.86,Electrical Engineering,Germany,University 18
+154,324,105,3,3.0,4.0,8.75,0,0.79,Mechanical,Germany,University 26
+155,326,108,3,3.0,3.5,8.89,0,0.8,Data Science,Canada,University 24
+156,312,109,3,3.0,3.0,8.69,0,0.77,Electrical Engineering,Germany,University 15
+157,315,105,3,2.0,2.5,8.34,0,0.7,Mechanical,USA,University 19
+158,309,104,2,2.0,2.5,8.26,0,0.65,Data Science,Canada,University 11
+159,306,106,2,2.0,2.5,8.14,0,0.61,Mechanical,Canada,University 7
+160,297,100,1,1.5,2.0,7.9,0,0.52,Data Science,USA,University 1
+161,315,103,1,1.5,2.0,7.86,0,0.57,Computer Science,Germany,University 26
+162,298,99,1,1.5,3.0,7.46,0,0.53,Mechanical,Australia,University 35
+163,318,109,3,3.0,3.0,8.5,0,0.67,Data Science,USA,University 33
+164,317,105,3,3.5,3.0,8.56,0,0.68,Computer Science,Canada,University 12
+165,329,111,4,4.5,4.0,9.01,1,0.81,Mechanical,Australia,University 4
+166,322,110,5,4.5,4.0,8.97,0,0.78,Electrical Engineering,Germany,University 22
+167,302,102,3,3.5,5.0,8.33,0,0.65,Mechanical,Canada,University 29
+168,313,102,3,2.0,3.0,8.27,0,0.64,Mechanical,Germany,University 21
+169,293,97,2,2.0,4.0,7.8,1,0.64,Data Science,USA,University 11
+170,311,99,2,2.5,3.0,7.98,0,0.65,Mechanical,UK,University 32
+171,312,101,2,2.5,3.5,8.04,1,0.68,Computer Science,Germany,University 38
+172,334,117,5,4.0,4.5,9.07,1,0.89,Electrical Engineering,UK,University 34
+173,322,110,4,4.0,5.0,9.13,1,0.86,Computer Science,UK,University 34
+174,323,113,4,4.0,4.5,9.23,1,0.89,Electrical Engineering,Australia,University 45
+175,321,111,4,4.0,4.0,8.97,1,0.87,Data Science,USA,University 36
+176,320,111,4,4.5,3.5,8.87,1,0.85,Electrical Engineering,USA,University 25
+177,329,119,4,4.5,4.5,9.16,1,0.9,Computer Science,Australia,University 27
+178,319,110,3,3.5,3.5,9.04,0,0.82,Computer Science,Canada,University 7
+179,309,108,3,2.5,3.0,8.12,0,0.72,Mechanical,Canada,University 37
+180,307,102,3,3.0,3.0,8.27,0,0.73,Computer Science,USA,University 17
+181,300,104,3,3.5,3.0,8.16,0,0.71,Electrical Engineering,Germany,University 8
+182,305,107,2,2.5,2.5,8.42,0,0.71,Electrical Engineering,UK,University 49
+183,299,100,2,3.0,3.5,7.88,0,0.68,Data Science,Australia,University 34
+184,314,110,3,4.0,4.0,8.8,0,0.75,Computer Science,USA,University 49
+185,316,106,2,2.5,4.0,8.32,0,0.72,Electrical Engineering,Germany,University 44
+186,327,113,4,4.5,4.5,9.11,1,0.89,Mechanical,USA,University 28
+187,317,107,3,3.5,3.0,8.68,1,0.84,Data Science,Germany,University 8
+188,335,118,5,4.5,3.5,9.44,1,0.93,Mechanical,Germany,University 10
+189,331,115,5,4.5,3.5,9.36,1,0.93,Computer Science,USA,University 40
+190,324,112,5,5.0,5.0,9.08,1,0.88,Electrical Engineering,UK,University 30
+191,324,111,5,4.5,4.0,9.16,1,0.9,Data Science,Canada,University 6
+192,323,110,5,4.0,5.0,8.98,1,0.87,Data Science,Germany,University 40
+193,322,114,5,4.5,4.0,8.94,1,0.86,Electrical Engineering,Canada,University 47
+194,336,118,5,4.5,5.0,9.53,1,0.94,Mechanical,UK,University 18
+195,316,109,3,3.5,3.0,8.76,0,0.77,Data Science,USA,University 5
+196,307,107,2,3.0,3.5,8.52,1,0.78,Computer Science,Canada,University 24
+197,306,105,2,3.0,2.5,8.26,0,0.73,Electrical Engineering,Australia,University 46
+198,310,106,2,3.5,2.5,8.33,0,0.73,Computer Science,Australia,University 4
+199,311,104,3,4.5,4.5,8.43,0,0.7,Data Science,Germany,University 11
+200,313,107,3,4.0,4.5,8.69,0,0.72,Computer Science,Australia,University 43
+201,317,103,3,2.5,3.0,8.54,1,0.73,Mechanical,Australia,University 46
+202,315,110,2,3.5,3.0,8.46,1,0.72,Mechanical,Germany,University 5
+203,340,120,5,4.5,4.5,9.91,1,0.97,Data Science,Germany,University 45
+204,334,120,5,4.0,5.0,9.87,1,0.97,Computer Science,Germany,University 12
+205,298,105,3,3.5,4.0,8.54,0,0.69,Computer Science,Canada,University 29
+206,295,99,2,2.5,3.0,7.65,0,0.57,Mechanical,Germany,University 17
+207,315,99,2,3.5,3.0,7.89,0,0.63,Mechanical,Germany,University 16
+208,310,102,3,3.5,4.0,8.02,1,0.66,Electrical Engineering,Germany,University 2
+209,305,106,2,3.0,3.0,8.16,0,0.64,Mechanical,USA,University 14
+210,301,104,3,3.5,4.0,8.12,1,0.68,Computer Science,Germany,University 41
+211,325,108,4,4.5,4.0,9.06,1,0.79,Computer Science,UK,University 40
+212,328,110,4,5.0,4.0,9.14,1,0.82,Computer Science,Canada,University 32
+213,338,120,4,5.0,5.0,9.66,1,0.95,Mechanical,Australia,University 39
+214,333,119,5,5.0,4.5,9.78,1,0.96,Data Science,UK,University 13
+215,331,117,4,4.5,5.0,9.42,1,0.94,Electrical Engineering,Germany,University 15
+216,330,116,5,5.0,4.5,9.36,1,0.93,Computer Science,Germany,University 11
+217,322,112,4,4.5,4.5,9.26,1,0.91,Data Science,USA,University 6
+218,321,109,4,4.0,4.0,9.13,1,0.85,Computer Science,UK,University 35
+219,324,110,4,3.0,3.5,8.97,1,0.84,Computer Science,Germany,University 17
+220,312,104,3,3.5,3.5,8.42,0,0.74,Computer Science,UK,University 48
+221,313,103,3,4.0,4.0,8.75,0,0.76,Electrical Engineering,UK,University 45
+222,316,110,3,3.5,4.0,8.56,0,0.75,Mechanical,UK,University 16
+223,324,113,4,4.5,4.0,8.79,0,0.76,Data Science,Germany,University 11
+224,308,109,2,3.0,4.0,8.45,0,0.71,Electrical Engineering,Germany,University 28
+225,305,105,2,3.0,2.0,8.23,0,0.67,Electrical Engineering,USA,University 42
+226,296,99,2,2.5,2.5,8.03,0,0.61,Computer Science,UK,University 18
+227,306,110,2,3.5,4.0,8.45,0,0.63,Data Science,Australia,University 14
+228,312,110,2,3.5,3.0,8.53,0,0.64,Mechanical,Australia,University 43
+229,318,112,3,4.0,3.5,8.67,0,0.71,Data Science,Canada,University 12
+230,324,111,4,3.0,3.0,9.01,1,0.82,Mechanical,Germany,University 15
+231,313,104,3,4.0,4.5,8.65,0,0.73,Computer Science,Canada,University 35
+232,319,106,3,3.5,2.5,8.33,1,0.74,Data Science,Australia,University 4
+233,312,107,2,2.5,3.5,8.27,0,0.69,Computer Science,USA,University 4
+234,304,100,2,2.5,3.5,8.07,0,0.64,Computer Science,UK,University 39
+235,330,113,5,5.0,4.0,9.31,1,0.91,Data Science,Germany,University 46
+236,326,111,5,4.5,4.0,9.23,1,0.88,Electrical Engineering,UK,University 19
+237,325,112,4,4.0,4.5,9.17,1,0.85,Computer Science,Germany,University 48
+238,329,114,5,4.5,5.0,9.19,1,0.86,Electrical Engineering,UK,University 6
+239,310,104,3,2.0,3.5,8.37,0,0.7,Computer Science,Canada,University 33
+240,299,100,1,1.5,2.0,7.89,0,0.59,Electrical Engineering,UK,University 40
+241,296,101,1,2.5,3.0,7.68,0,0.6,Electrical Engineering,UK,University 7
+242,317,103,2,2.5,2.0,8.15,0,0.65,Mechanical,Australia,University 41
+243,324,115,3,3.5,3.0,8.76,1,0.7,Mechanical,Germany,University 42
+244,325,114,3,3.5,3.0,9.04,1,0.76,Electrical Engineering,UK,University 29
+245,314,107,2,2.5,4.0,8.56,0,0.63,Computer Science,Australia,University 14
+246,328,110,4,4.0,2.5,9.02,1,0.81,Mechanical,UK,University 29
+247,316,105,3,3.0,3.5,8.73,0,0.72,Computer Science,Germany,University 31
+248,311,104,2,2.5,3.5,8.48,0,0.71,Electrical Engineering,Australia,University 30
+249,324,110,3,3.5,4.0,8.87,1,0.8,Mechanical,Australia,University 12
+250,321,111,3,3.5,4.0,8.83,1,0.77,Mechanical,Germany,University 23
+251,320,104,3,3.0,2.5,8.57,1,0.74,Electrical Engineering,Germany,University 15
+252,316,99,2,2.5,3.0,9.0,0,0.7,Electrical Engineering,Canada,University 18
+253,318,100,2,2.5,3.5,8.54,1,0.71,Mechanical,UK,University 28
+254,335,115,4,4.5,4.5,9.68,1,0.93,Computer Science,USA,University 41
+255,321,114,4,4.0,5.0,9.12,0,0.85,Mechanical,USA,University 5
+256,307,110,4,4.0,4.5,8.37,0,0.79,Computer Science,UK,University 6
+257,309,99,3,4.0,4.0,8.56,0,0.76,Mechanical,Canada,University 49
+258,324,100,3,4.0,5.0,8.64,1,0.78,Electrical Engineering,Canada,University 25
+259,326,102,4,5.0,5.0,8.76,1,0.77,Data Science,USA,University 36
+260,331,119,4,5.0,4.5,9.34,1,0.9,Computer Science,UK,University 46
+261,327,108,5,5.0,3.5,9.13,1,0.87,Electrical Engineering,Canada,University 21
+262,312,104,3,3.5,4.0,8.09,0,0.71,Data Science,Germany,University 33
+263,308,103,2,2.5,4.0,8.36,1,0.7,Data Science,Germany,University 41
+264,324,111,3,2.5,1.5,8.79,1,0.7,Electrical Engineering,UK,University 6
+265,325,110,2,3.0,2.5,8.76,1,0.75,Electrical Engineering,Australia,University 25
+266,313,102,3,2.5,2.5,8.68,0,0.71,Mechanical,Australia,University 43
+267,312,105,2,2.0,2.5,8.45,0,0.72,Data Science,Australia,University 10
+268,314,107,3,3.0,3.5,8.17,1,0.73,Data Science,Germany,University 48
+269,327,113,4,4.5,5.0,9.14,0,0.83,Electrical Engineering,USA,University 1
+270,308,108,4,4.5,5.0,8.34,0,0.77,Computer Science,Canada,University 18
+271,306,105,2,2.5,3.0,8.22,1,0.72,Data Science,Germany,University 4
+272,299,96,2,1.5,2.0,7.86,0,0.54,Electrical Engineering,Germany,University 44
+273,294,95,1,1.5,1.5,7.64,0,0.49,Computer Science,Canada,University 21
+274,312,99,1,1.0,1.5,8.01,1,0.52,Electrical Engineering,Australia,University 26
+275,315,100,1,2.0,2.5,7.95,0,0.58,Data Science,Australia,University 43
+276,322,110,3,3.5,3.0,8.96,1,0.78,Data Science,Australia,University 41
+277,329,113,5,5.0,4.5,9.45,1,0.89,Computer Science,UK,University 11
+278,320,101,2,2.5,3.0,8.62,0,0.7,Data Science,Canada,University 26
+279,308,103,2,3.0,3.5,8.49,0,0.66,Data Science,Canada,University 22
+280,304,102,2,3.0,4.0,8.73,0,0.67,Computer Science,UK,University 23
+281,311,102,3,4.5,4.0,8.64,1,0.68,Electrical Engineering,Canada,University 42
+282,317,110,3,4.0,4.5,9.11,1,0.8,Data Science,Canada,University 6
+283,312,106,3,4.0,3.5,8.79,1,0.81,Computer Science,Canada,University 7
+284,321,111,3,2.5,3.0,8.9,1,0.8,Computer Science,Germany,University 38
+285,340,112,4,5.0,4.5,9.66,1,0.94,Data Science,UK,University 35
+286,331,116,5,4.0,4.0,9.26,1,0.93,Electrical Engineering,Australia,University 35
+287,336,118,5,4.5,4.0,9.19,1,0.92,Mechanical,USA,University 31
+288,324,114,5,5.0,4.5,9.08,1,0.89,Mechanical,Canada,University 2
+289,314,104,4,5.0,5.0,9.02,0,0.82,Computer Science,Australia,University 47
+290,313,109,3,4.0,3.5,9.0,0,0.79,Data Science,Germany,University 27
+291,307,105,2,2.5,3.0,7.65,0,0.58,Computer Science,Canada,University 15
+292,300,102,2,1.5,2.0,7.87,0,0.56,Mechanical,Australia,University 48
+293,302,99,2,1.0,2.0,7.97,0,0.56,Data Science,Australia,University 46
+294,312,98,1,3.5,3.0,8.18,1,0.64,Data Science,UK,University 22
+295,316,101,2,2.5,2.0,8.32,1,0.61,Data Science,USA,University 45
+296,317,100,2,3.0,2.5,8.57,0,0.68,Mechanical,Australia,University 1
+297,310,107,3,3.5,3.5,8.67,0,0.76,Computer Science,Canada,University 49
+298,320,120,3,4.0,4.5,9.11,0,0.86,Electrical Engineering,Australia,University 9
+299,330,114,3,4.5,4.5,9.24,1,0.9,Electrical Engineering,Australia,University 38
+300,305,112,3,3.0,3.5,8.65,0,0.71,Data Science,UK,University 44
+301,309,106,2,2.5,2.5,8.0,0,0.62,Data Science,UK,University 22
+302,319,108,2,2.5,3.0,8.76,0,0.66,Computer Science,Germany,University 33
+303,322,105,2,3.0,3.0,8.45,1,0.65,Electrical Engineering,USA,University 26
+304,323,107,3,3.5,3.5,8.55,1,0.73,Data Science,Australia,University 19
+305,313,106,2,2.5,2.0,8.43,0,0.62,Electrical Engineering,Canada,University 30
+306,321,109,3,3.5,3.5,8.8,1,0.74,Data Science,Germany,University 45
+307,323,110,3,4.0,3.5,9.1,1,0.79,Mechanical,UK,University 12
+308,325,112,4,4.0,4.0,9.0,1,0.8,Computer Science,Australia,University 26
+309,312,108,3,3.5,3.0,8.53,0,0.69,Data Science,UK,University 39
+310,308,110,4,3.5,3.0,8.6,0,0.7,Mechanical,Germany,University 16
+311,320,104,3,3.0,3.5,8.74,1,0.76,Electrical Engineering,Germany,University 40
+312,328,108,4,4.5,4.0,9.18,1,0.84,Computer Science,Australia,University 6
+313,311,107,4,4.5,4.5,9.0,1,0.78,Computer Science,USA,University 43
+314,301,100,3,3.5,3.0,8.04,0,0.67,Mechanical,Germany,University 44
+315,305,105,2,3.0,4.0,8.13,0,0.66,Computer Science,Germany,University 14
+316,308,104,2,2.5,3.0,8.07,0,0.65,Mechanical,Australia,University 19
+317,298,101,2,1.5,2.0,7.86,0,0.54,Data Science,UK,University 12
+318,300,99,1,1.0,2.5,8.01,0,0.58,Electrical Engineering,Germany,University 16
+319,324,111,3,2.5,2.0,8.8,1,0.79,Mechanical,Germany,University 28
+320,327,113,4,3.5,3.0,8.69,1,0.8,Mechanical,Germany,University 8
+321,317,106,3,4.0,3.5,8.5,1,0.75,Electrical Engineering,Australia,University 30
+322,323,104,3,4.0,4.0,8.44,1,0.73,Data Science,Germany,University 36
+323,314,107,2,2.5,4.0,8.27,0,0.72,Electrical Engineering,Australia,University 42
+324,305,102,2,2.0,2.5,8.18,0,0.62,Computer Science,USA,University 41
+325,315,104,3,3.0,2.5,8.33,0,0.67,Electrical Engineering,UK,University 50
+326,326,116,3,3.5,4.0,9.14,1,0.81,Data Science,UK,University 1
+327,299,100,3,2.0,2.0,8.02,0,0.63,Data Science,Australia,University 37
+328,295,101,2,2.5,2.0,7.86,0,0.69,Mechanical,Australia,University 36
+329,324,112,4,4.0,3.5,8.77,1,0.8,Data Science,UK,University 42
+330,297,96,2,2.5,1.5,7.89,0,0.43,Computer Science,UK,University 8
+331,327,113,3,3.5,3.0,8.66,1,0.8,Mechanical,Australia,University 24
+332,311,105,2,3.0,2.0,8.12,1,0.73,Electrical Engineering,USA,University 49
+333,308,106,3,3.5,2.5,8.21,1,0.75,Electrical Engineering,USA,University 37
+334,319,108,3,3.0,3.5,8.54,1,0.71,Mechanical,Australia,University 30
+335,312,107,4,4.5,4.0,8.65,1,0.73,Electrical Engineering,Germany,University 6
+336,325,111,4,4.0,4.5,9.11,1,0.83,Electrical Engineering,Germany,University 24
+337,319,110,3,3.0,2.5,8.79,0,0.72,Mechanical,Australia,University 36
+338,332,118,5,5.0,5.0,9.47,1,0.94,Data Science,Germany,University 28
+339,323,108,5,4.0,4.0,8.74,1,0.81,Computer Science,Australia,University 45
+340,324,107,5,3.5,4.0,8.66,1,0.81,Computer Science,Australia,University 22
+341,312,107,3,3.0,3.0,8.46,1,0.75,Data Science,Canada,University 33
+342,326,110,3,3.5,3.5,8.76,1,0.79,Computer Science,UK,University 14
+343,308,106,3,3.0,3.0,8.24,0,0.58,Data Science,UK,University 23
+344,305,103,2,2.5,3.5,8.13,0,0.59,Mechanical,Canada,University 22
+345,295,96,2,1.5,2.0,7.34,0,0.47,Mechanical,USA,University 39
+346,316,98,1,1.5,2.0,7.43,0,0.49,Electrical Engineering,USA,University 20
+347,304,97,2,1.5,2.0,7.64,0,0.47,Computer Science,Canada,University 42
+348,299,94,1,1.0,1.0,7.34,0,0.42,Electrical Engineering,Canada,University 12
+349,302,99,1,2.0,2.0,7.25,0,0.57,Electrical Engineering,USA,University 47
+350,313,101,3,2.5,3.0,8.04,0,0.62,Electrical Engineering,USA,University 27
+351,318,107,3,3.0,3.5,8.27,1,0.74,Data Science,USA,University 42
+352,325,110,4,3.5,4.0,8.67,1,0.73,Mechanical,Canada,University 7
+353,303,100,2,3.0,3.5,8.06,1,0.64,Data Science,Germany,University 26
+354,300,102,3,3.5,2.5,8.17,0,0.63,Mechanical,Germany,University 1
+355,297,98,2,2.5,3.0,7.67,0,0.59,Data Science,Canada,University 47
+356,317,106,2,2.0,3.5,8.12,0,0.73,Computer Science,Canada,University 46
+357,327,109,3,3.5,4.0,8.77,1,0.79,Computer Science,Germany,University 21
+358,301,104,2,3.5,3.5,7.89,1,0.68,Computer Science,USA,University 45
+359,314,105,2,2.5,2.0,7.64,0,0.7,Data Science,Canada,University 8
+360,321,107,2,2.0,1.5,8.44,0,0.81,Computer Science,USA,University 14
+361,322,110,3,4.0,5.0,8.64,1,0.85,Electrical Engineering,Germany,University 18
+362,334,116,4,4.0,3.5,9.54,1,0.93,Data Science,USA,University 27
+363,338,115,5,4.5,5.0,9.23,1,0.91,Electrical Engineering,Germany,University 48
+364,306,103,2,2.5,3.0,8.36,0,0.69,Data Science,Germany,University 11
+365,313,102,3,3.5,4.0,8.9,1,0.77,Electrical Engineering,Australia,University 36
+366,330,114,4,4.5,3.0,9.17,1,0.86,Computer Science,Australia,University 3
+367,320,104,3,3.5,4.5,8.34,1,0.74,Mechanical,Germany,University 49
+368,311,98,1,1.0,2.5,7.46,0,0.57,Computer Science,USA,University 16
+369,298,92,1,2.0,2.0,7.88,0,0.51,Electrical Engineering,Canada,University 35
+370,301,98,1,2.0,3.0,8.03,1,0.67,Data Science,Germany,University 33
+371,310,103,2,2.5,2.5,8.24,0,0.72,Computer Science,Canada,University 39
+372,324,110,3,3.5,3.0,9.22,1,0.89,Mechanical,UK,University 9
+373,336,119,4,4.5,4.0,9.62,1,0.95,Data Science,Germany,University 47
+374,321,109,3,3.0,3.0,8.54,1,0.79,Mechanical,USA,University 7
+375,315,105,2,2.0,2.5,7.65,0,0.39,Computer Science,Canada,University 8
+376,304,101,2,2.0,2.5,7.66,0,0.38,Computer Science,Australia,University 49
+377,297,96,2,2.5,2.0,7.43,0,0.34,Electrical Engineering,Canada,University 37
+378,290,100,1,1.5,2.0,7.56,0,0.47,Electrical Engineering,Canada,University 30
+379,303,98,1,2.0,2.5,7.65,0,0.56,Data Science,Australia,University 42
+380,311,99,1,2.5,3.0,8.43,1,0.71,Mechanical,UK,University 43
+381,322,104,3,3.5,4.0,8.84,1,0.78,Data Science,Germany,University 37
+382,319,105,3,3.0,3.5,8.67,1,0.73,Mechanical,Australia,University 5
+383,324,110,4,4.5,4.0,9.15,1,0.82,Mechanical,USA,University 32
+384,300,100,3,3.0,3.5,8.26,0,0.62,Mechanical,USA,University 18
+385,340,113,4,5.0,5.0,9.74,1,0.96,Electrical Engineering,USA,University 3
+386,335,117,5,5.0,5.0,9.82,1,0.96,Data Science,Germany,University 34
+387,302,101,2,2.5,3.5,7.96,0,0.46,Data Science,Canada,University 13
+388,307,105,2,2.0,3.5,8.1,0,0.53,Computer Science,UK,University 4
+389,296,97,2,1.5,2.0,7.8,0,0.49,Computer Science,Canada,University 1
+390,320,108,3,3.5,4.0,8.44,1,0.76,Electrical Engineering,UK,University 25
+391,314,102,2,2.0,2.5,8.24,0,0.64,Electrical Engineering,USA,University 50
+392,318,106,3,2.0,3.0,8.65,0,0.71,Electrical Engineering,USA,University 46
+393,326,112,4,4.0,3.5,9.12,1,0.84,Computer Science,Australia,University 1
+394,317,104,2,3.0,3.0,8.76,0,0.77,Data Science,USA,University 10
+395,329,111,4,4.5,4.0,9.23,1,0.89,Data Science,Germany,University 22
+396,324,110,3,3.5,3.5,9.04,1,0.82,Electrical Engineering,USA,University 5
+397,325,107,3,3.0,3.5,9.11,1,0.84,Electrical Engineering,Australia,University 39
+398,330,116,4,5.0,4.5,9.45,1,0.91,Computer Science,Australia,University 2
+399,312,103,3,3.5,4.0,8.78,0,0.67,Electrical Engineering,UK,University 9
+400,333,117,4,5.0,4.0,9.66,1,0.95,Mechanical,UK,University 42
